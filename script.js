@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000'; // cambiar por la URL de Render luego
+const API_URL = 'https://backend-mi-tienda.onrender.com'; // cambiar por la URL de Render luego
 
 const productos = [];
 
